@@ -1,0 +1,19 @@
+.variantheader{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.variantsinfo
+{
+  margin-top:10px;
+  display:flex;
+  flex-direction: 'row';
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.variantsinfo button{
+  display:flex;
+  flex-direction: 'row';
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,10 @@
+.productmenuitem{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.productbutton{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
